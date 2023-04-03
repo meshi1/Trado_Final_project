@@ -17,4 +17,4 @@ To install ChromeDriver, visit the following site and download the appropriate v
 To run the reports tests, navigate to the terminal and write allure serve reports.
 To run the DB test choose on Current file and click run button.
 
-This project was created by Meshi Giladi.
+This project was created by Meshi .
