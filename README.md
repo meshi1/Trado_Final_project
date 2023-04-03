@@ -8,11 +8,11 @@ such as logging in, navigating the site, adding items to the cart and making pur
 Link to Traceability Table, Manual tests and Bugs report: https://docs.google.com/spreadsheets/d/1xkEUyS4AwRsxr5PeGFb52l6WNbTXAZcI4jfezXzbcfY/edit#gid=1608563446
 
 To use this project in pycharm, you will need to install the in your terminal:
-pip install selenium
-pip install Pytest
+pip install selenium ,
+pip install Pytest and
 pip install allure pytest
 
-To install ChromeDriver, visit the following site and download the appropriate version for your operating system: https://sites.google.com/a/chromium.org/chromedriver/downloads Usage
+To install ChromeDriver, visit the following site and download the appropriate version for your operating system: https://sites.google.com/a/chromium.org/chromedriver/downloads 
 
 To run the reports tests, navigate to the terminal and write allure serve reports.
 To run the DB test choose on Current file and click run button.
