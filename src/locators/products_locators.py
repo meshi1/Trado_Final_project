@@ -1,0 +1,17 @@
+
+class ProductsLocators:
+    product_1_btn = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/a[5]/div/div[2]/div[2]/div[1]"
+    add_product = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div[1]/div/div/div[2]/div[2]/div/div/span[1]"
+    product_1_cart = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[1]/div[2]/div/a/div"
+    removing_product = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[1]/div[2]/div/a/div/div[3]/div[2]/img"
+    product_2_btn = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/a[4]/div/div[2]/div[2]/div[1]"
+    product_2_cart ="/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[1]/div[2]/div/a[2]/div"
+    text_product_1_btn ="/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/a[5]/div/div[2]/div[2]/div[1]"
+    text_page_product_1 = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div[1]/div/div/div[2]/div[1]/h1"
+    text_quantity_stock_main = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/a[5]/div/div[2]/div[2]/div[3]/span[3]"
+    text_quantity_stock_product_page = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div[1]/div/div[1]/div[2]/div[4]/div[4]/span"
+    price_product_page = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div[1]/div/div/div[2]/div[1]/div/div/div/span/span"
+    price_product_cart = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[1]/div[3]/div/h6[4]/span[2]"
+    product_3_btn = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[3]/a[14]/div/div[2]/div[2]/div[1]"
+    text_quantity_bar_product_3 = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div/div[1]/div[2]/div[2]/div/div/div/input"
+    text_quantity_minimum_order = "/html/body/div/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div/div[1]/div[2]/div[3]/span"

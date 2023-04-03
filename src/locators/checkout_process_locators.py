@@ -1,0 +1,20 @@
+
+class Checkout_processLocators:
+
+    payment_btn = "/html/body/div[1]/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div[1]/div[3]/button"
+    checkout_btn = "/html/body/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/form/section[3]/div[3]/button"
+    bank_transfer_btn ="/html/body/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/form/section[1]/div[3]/div/label[2]/div"
+    branch_input = "/html/body/div[1]/div/div[4]/div/div/form/section/div[3]/input"
+    acount_number_input = "/html/body/div[1]/div/div[4]/div/div/form/section/div[4]/input"
+    confirm_btn = "/html/body/div[1]/div/div[4]/div/div/form/button"
+    end_payment_btn = "/html/body/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/form/section[2]/div[3]/button/input"
+    Payment_confirmation_text = "/html/body/div[1]/div/div[2]/div[2]/div/div[2]/div/h2"
+    credit_card_btn = "/html/body/div[1]/div/div[2]/div[2]/div/div[2]/div/div[2]/form/section[1]/div[2]/div/div/div"
+    input_num_card = "#credit-card-input"
+    input_num_id = "/html/body/form/div[3]/fieldset/div[2]/input"
+    month_card = "/html/body/form/div[3]/fieldset/div[3]/div[1]/select"
+    year_card = "/html/body/form/div[3]/fieldset/div[3]/div[2]/select"
+    input_ccv_code = "cvv"
+    pay_btn = "/html/body/form/div[3]/input"
+    error_message = "/html/body/div[2]"
+    error_message_card = "creditError"
