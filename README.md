@@ -14,7 +14,7 @@ pip install allure pytest
 
 To install ChromeDriver, visit the following site and download the appropriate version for your operating system: https://sites.google.com/a/chromium.org/chromedriver/downloads 
 
-To run the reports tests, navigate to the terminal and write allure serve reports.
-To run the DB test choose on Current file and click run button.
+To run the reports tests, navigate to the terminal and write: allure serve reports.
+To run the DB tests Select in the toolbar above the option Current file and click run button.
 
 This project was created by Meshi .
